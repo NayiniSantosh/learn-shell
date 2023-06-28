@@ -10,5 +10,5 @@ echo -e "\e[32mHello in GREEN color\e[0m"
 echo -e "\e[33mHello in YELLOW color\e[0m"
 echo -e "\e[34mHello in BLUE color\e[0m"
 echo -e "\e[35mHello in MAGENTA color\e[0m"
-echo -e "\e[36mHello in CYAN color\e[0m"
+echo -e "\e[34mHello in CYAN color\e[0m"
 
